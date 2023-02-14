@@ -1,16 +1,12 @@
 # flutter_application_2
 
-A new Flutter project.
+This project started to help people who have suffered political injustices. The very first idea of this app came to be, Because of events surrounding Iran’s revolution.
 
-## Getting Started
+Iran’s history is filled with honor and pride. However, its also filled with tragedy and despair. As is the case for many nations. This app aims to provide support to individuals who who were/are in prison, missing, killed or executed starting by people in Iran. Furthermore, this app will commemorate those who were and lost their lives for freedom. ensuring that their stories are not forgotten. 
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+This project stands on it's very first steps. However, the first stable version of this project will have x numbers of usage 
+#1.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
