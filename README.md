@@ -6,7 +6,6 @@ This project started to help people who have suffered political injustices. The 
 
 This app aims to provide support to individuals who were/are in prison, missing, killed or executed in Iran. Furthermore, this app will commemorate those who lost their lives for freedom or were another innocent casualty among many. 
 
-<br/>[*] Important Note: this platform will not be utilized for any form of political advertising, either in favor of or against any political party. Additionally this platform belongs ONLY to people who have been victim of political injustice and are in need of help and will act as their voice. 
 
 <br/><b>Categories</b>
 <br/> &nbsp; &nbsp; &nbsp; 1. Political Prisoners
