@@ -1,6 +1,6 @@
 # InNeed
 
-This project started to help people who have suffered political injustices. The idea of this app came to be, Because of events surrounding Iran’s revolution.
+This project aims for helping people who have suffered political injustice in Iran.
 
 ## Description
 
