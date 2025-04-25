@@ -1,3 +1,5 @@
+# Practice Repo
+
 # InNeed
 
 This project idea for helping people who have suffered political injustice in Iran.
@@ -9,6 +11,8 @@ flutter practice with ideas to give support to individuals who were/are in priso
 
 ## Notes
 This project is a practice project for dart following a course by tutor Saeed shahini in his flutter course. The original project was a book club platform. I haven't design the UI/UX so if it's your work please inform me.
+
+Simply copy the files in lib and install the requirements (Not a big project!). I believe in you. 
 
 
 
